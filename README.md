@@ -1,6 +1,6 @@
 # alcool_ou_gasolina
 
-A new Flutter application.
+Projeto e interface simples com a função de calcular se vale mais a pena abastecer o carro com álcool ou gasolina.
 
 ## Getting Started
 
